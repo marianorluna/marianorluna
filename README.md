@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marianorluna
 - 👀 I’m interested in develop APPs for BIM, 3D models and archviz
-- 🌱 I’m currently learning web development and backend C#
+- 🌱 I’m currently learning web development and python
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
